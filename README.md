@@ -38,6 +38,4 @@ Python 3.7+
 Streamlit
 Regular Expressions (re)
 Random module
-📦 Installation
-Step 1: Clone the Repository
-git clone https://github.com/yourusername/password-strength-meter.git
+
